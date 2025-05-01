@@ -18,7 +18,7 @@ Ce projet est un jeu de flashcards interactif qui aide les utilisateurs à appre
 ![gamecard FR](https://github.com/user-attachments/assets/8ac28a6c-7691-406a-b569-4b63f439acb6)
 
 ## 🚀 Installation
-1. Clone ce dépôt :
+1. Clone ce dépôt : https://github.com/DevBigDaddy/Flashcard-game-PortuguseBR-FR/tree/main/flashcard%20game%20BR.FR
 
 2. Navigue dans le dossier du projet :
 
